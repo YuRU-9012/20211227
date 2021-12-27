@@ -1,0 +1,28 @@
+﻿<html>
+<head>
+<title>芋香奶茶</title>
+<style>
+
+</style>
+
+</head>
+<body>
+
+<a href="index.html">首頁</a>
+<a href="3rd.html">鳳梨餡的迷你派</a>
+<a href="4th.html">慢慢撕開的蔥抓餅</a>
+<a href="5th.html">心得感想</a>
+
+
+
+<img src=".\圖片\珍珠" width="400" height="300" align="left">
+<td align="center"><h3>珍珠奶茶</h3>
+<td align="center">有嚼勁又清爽,珍珠奶茶代表著台灣人熱愛的QQ食物
+<br>據說這種特別的飲料是無心插柳創造出來的<br><br>
+不同口味的珍奶包括芋香奶茶'茉香綠茶或咖啡,冰的熱的各有不同風味<br>
+
+
+
+
+</body>
+</html>

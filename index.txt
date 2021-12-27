@@ -1,0 +1,53 @@
+﻿<html>
+<head>
+<title>首頁</title>
+<style>
+
+</style>
+
+</head>
+<body>
+
+<a href="2nd.html"></a>
+<a href="3rd.html"></a>
+<a href="4th.html"></a>
+<a href="5th.html"></a>
+
+
+<audio src=".\音樂\007.mp3 " autoplay controls> </audio>
+
+<table boder="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
+
+<tr>
+<td><img src=".\圖片\珍珠" width="400" height="300" align="left"></td>
+<td align="center"><h3>珍珠奶茶</h3></td>
+<td align="center">有嚼勁又清爽,珍珠奶茶代表著台灣人熱愛的QQ食物<br>
+據說這種特別的飲料是無心插柳創造出來的<br>
+不同口味的珍奶包括芋香奶茶'茉香綠茶或咖啡,冰的熱的各有不同風味<br></td>
+</tr>
+
+<tr>
+<td><img src=".\圖片\鳳梨酥" width="400" height="300" align="left"></td>
+<td align="center"><h3>鳳梨酥</h3></td>
+<td align="center">這是台灣指標性的糕點是鳳梨煮成糖凝固成一塊一塊鳳梨餡的迷你派,<br>
+外酥內軟的豐富多層次口感,佳節送禮或是自行品嚐都是很好的選擇<br>
+為台灣最佳伴手禮之一<br></td>
+</tr>
+
+<tr>
+<td><img src=".\圖片\03" width="400" height="300" align="left"></td>
+<td align="center"><h3>蔥抓餅</h3></td>
+<td align="center">很少有東西看起來比慢慢撕開的蔥抓餅更讓人垂涎三尺,加點cheese和<br>
+蛋就看起來更美味了,這個夜市美食記得一定要在熱騰騰'由嚼勁的時候<br>
+大口大口吃完<br></td>
+</tr>
+
+</table>
+
+</body>
+</html>
